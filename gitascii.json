@@ -1,0 +1,200 @@
+{
+  "version": 1,
+  "githubId": 294351641,
+  "username": "josephbusinesses664-dot",
+  "profileSlug": "default",
+  "profileName": "Default",
+  "templateId": "hacker",
+  "widgets": [
+    {
+      "widgetId": "header",
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 800,
+        "height": 90
+      },
+      "config": {
+        "accentColor": "#00ff41",
+        "textColor": "#00ff41"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 1,
+      "instanceId": "widget_header",
+      "name": "Header Widget"
+    },
+    {
+      "widgetId": "ascii-text",
+      "position": {
+        "x": 0,
+        "y": 106
+      },
+      "size": {
+        "width": 800,
+        "height": 120
+      },
+      "config": {
+        "customText": "JOSEPH",
+        "fontSize": 14,
+        "accentColor": "#00ff41"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 2,
+      "instanceId": "widget_ascii_title",
+      "name": "Ascii Title Widget"
+    },
+    {
+      "widgetId": "terminal-info",
+      "position": {
+        "x": 0,
+        "y": 242
+      },
+      "size": {
+        "width": 800,
+        "height": 280
+      },
+      "config": {
+        "headerColor": "#00ff41",
+        "labelColor": "#79c0ff",
+        "dotColor": "#234e23",
+        "valueColor": "#00ff41",
+        "statsValColor": "#00ff41",
+        "showMainSection": true,
+        "showContactSection": true,
+        "showStatsSection": true,
+        "showWebsite": true,
+        "showGithub": true
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 3,
+      "instanceId": "widget_terminal_info",
+      "name": "Terminal Info Widget"
+    },
+    {
+      "widgetId": "stats",
+      "position": {
+        "x": 0,
+        "y": 538
+      },
+      "size": {
+        "width": 800,
+        "height": 90
+      },
+      "config": {
+        "statsStyle": "terminal",
+        "accentColor": "#00ff41",
+        "textColor": "#00ff41"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 4,
+      "instanceId": "widget_stats",
+      "name": "Stats Widget"
+    },
+    {
+      "widgetId": "repositories",
+      "position": {
+        "x": 0,
+        "y": 644
+      },
+      "size": {
+        "width": 800,
+        "height": 180
+      },
+      "config": {
+        "repoViewMode": "grid",
+        "selectedRepos": [
+          "agent_os2",
+          "Prem-ium.inc-client-portal",
+          "browser-agent-muse",
+          "openclaude"
+        ],
+        "accentColor": "#00ff41"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 5,
+      "instanceId": "widget_repositories",
+      "name": "Featured Repositories"
+    },
+    {
+      "widgetId": "languages",
+      "position": {
+        "x": 0,
+        "y": 840
+      },
+      "size": {
+        "width": 800,
+        "height": 130
+      },
+      "config": {
+        "accentColor": "#00ff41"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 6,
+      "instanceId": "widget_languages",
+      "name": "Languages Widget"
+    },
+    {
+      "widgetId": "divider",
+      "position": {
+        "x": 0,
+        "y": 986
+      },
+      "size": {
+        "width": 800,
+        "height": 24
+      },
+      "config": {
+        "accentColor": "#00ff41"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 7,
+      "instanceId": "widget_divider",
+      "name": "Divider Widget"
+    },
+    {
+      "widgetId": "footer",
+      "position": {
+        "x": 0,
+        "y": 1026
+      },
+      "size": {
+        "width": 800,
+        "height": 48
+      },
+      "config": {
+        "accentColor": "#00ff41"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 8,
+      "instanceId": "widget_footer",
+      "name": "Footer Widget"
+    }
+  ],
+  "globalStyles": {
+    "backgroundColor": "#0a0f0a",
+    "textColor": "#00ff41",
+    "accentColor": "#00ff41",
+    "borderColor": "#1a3a1a",
+    "fontFamily": "'JetBrains Mono', monospace",
+    "borderRadius": 0,
+    "padding": 24,
+    "themeMode": "dark",
+    "templateStyle": "hackerspace"
+  },
+  "metadata": {
+    "createdAt": "2026-10-17T18:50:00.000Z",
+    "updatedAt": "2026-10-17T18:50:00.000Z",
+    "schemaVersion": 1,
+    "generatedBy": "manual"
+  }
+}

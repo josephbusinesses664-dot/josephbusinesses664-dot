@@ -8,14 +8,7 @@
   </picture>
 </div>
 
-<br/>
-
-### ⚡ Featured Systems
-- **[Agent OS 2](https://github.com/josephbusinesses664-dot/agent_os2)** — Unified multi-agent agency platform with skill contracts, agent cognition, and MCP governance.
-- **[Agent OS](https://github.com/josephbusinesses664-dot/agent-os)** — Multi-agent operating system with Mattermost human-in-the-loop interface, LangGraph orchestration, and model routing.
-- **[Prem-ium Client Portal](https://github.com/josephbusinesses664-dot/Prem-ium.inc-client-portal)** — Distributed agency client dashboard and site management studio.
-- **[Browser Agent Muse](https://github.com/josephbusinesses664-dot/browser-agent-muse)** — Autonomous browser agent architecture.
-- **[OpenClaude](https://github.com/josephbusinesses664-dot/openclaude)** — News and tech intelligence daily agent digest.
-
 ---
-<sub>⚡ Auto-rendered with [GitAscii](https://github.com/Igorcbraz/GitAscii)</sub>
+<div align="center">
+  <sub>⚡ Auto-rendered with <a href="https://github.com/Igorcbraz/GitAscii">GitAscii</a></sub>
+</div>

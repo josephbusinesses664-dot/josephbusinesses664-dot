@@ -1,5 +1,5 @@
 
-<svg width="800" height="1090" viewBox="0 0 800 1090" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="800" height="970" viewBox="0 0 800 970" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <style>
     @import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700;800&amp;family=Teko:wght@500;600;700&amp;family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&amp;family=Fira+Code:wght@300..700&amp;family=Inter+Tight:ital,wght@0,100..900;1,100..900&amp;family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&amp;family=Outfit:wght@100..900&amp;family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&amp;family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&amp;family=Roboto:ital,wght@0,100..900;1,100..900&amp;family=Space+Grotesk:wght@300..700&amp;display=swap');
 
@@ -29,18 +29,75 @@
     }
   </style>
 
-  <rect class="" width="800" height="1090" fill="#ffffff" rx="0" />
+  <rect class="" width="800" height="970" fill="#ffffff" rx="0" />
 
   
     <g transform="translate(0, 0)" id="widget-widget_header">
 
       
+        <style>
+          @keyframes svg-fade-in-widget_header-0 {
+            from { opacity: 0; }
+            to { opacity: 1; }
+          }
+          @keyframes svg-slide-up-widget_header-0 {
+            from { opacity: 0; transform: translateY(8px); }
+            to { opacity: 1; transform: translateY(0); }
+          }
+          @keyframes svg-slide-down-widget_header-0 {
+            from { opacity: 0; transform: translateY(-8px); }
+            to { opacity: 1; transform: translateY(0); }
+          }
+          @keyframes svg-slide-left-widget_header-0 {
+            from { opacity: 0; transform: translateX(12px); }
+            to { opacity: 1; transform: translateX(0); }
+          }
+          @keyframes svg-slide-right-widget_header-0 {
+            from { opacity: 0; transform: translateX(-12px); }
+            to { opacity: 1; transform: translateX(0); }
+          }
+          @keyframes svg-zoom-in-widget_header-0 {
+            from { opacity: 0; transform: scale(0.9); }
+            to { opacity: 1; transform: scale(1); }
+          }
+          @keyframes svg-zoom-out-widget_header-0 {
+            from { opacity: 0; transform: scale(1.1); }
+            to { opacity: 1; transform: scale(1); }
+          }
+          @keyframes svg-flip-x-widget_header-0 {
+            from { opacity: 0; transform: perspective(400px) rotateX(90deg); }
+            to { opacity: 1; transform: perspective(400px) rotateX(0deg); }
+          }
+          @keyframes svg-flip-y-widget_header-0 {
+            from { opacity: 0; transform: perspective(400px) rotateY(90deg); }
+            to { opacity: 1; transform: perspective(400px) rotateY(0deg); }
+          }
+          @keyframes svg-glitch-widget_header-0 {
+            0% { opacity: 0; transform: skewX(10deg); }
+            20% { opacity: 0.8; transform: skewX(-10deg); }
+            40% { opacity: 0.5; transform: skewX(5deg); }
+            60% { opacity: 0.9; transform: skewX(0deg); }
+            100% { opacity: 1; }
+          }
+          @keyframes svg-scan-lines-widget_header-0 {
+            0% { opacity: 0; clip-path: inset(100% 0 0 0); }
+            100% { opacity: 1; clip-path: inset(0 0 0 0); }
+          }
+
+          #widget-widget_header .anim-target {
+            animation-name: svg-slide-down-widget_header-0;
+            animation-duration: 1000ms;
+            animation-timing-function: ease-out;
+            animation-fill-mode: both;
+          }
+        </style>
+      
       
       <rect class="" x="0" y="0" width="800" height="90" fill="#0a0f0a" stroke="#1a3a1a" stroke-width="1" rx="0" />
       
       
-    <text x="24" y="44" font-family="'JetBrains Mono', monospace" font-size="28" font-weight="300" fill="#00ff41">Prem Tamanam</text>
-    <text x="24" y="72" font-family="'JetBrains Mono', monospace" font-size="14" fill="#00ff41">@josephbusinesses664-dot</text>
+    <text class="anim-target" x="24" y="44" font-family="'JetBrains Mono', monospace" font-size="28" font-weight="300" fill="#00ff41" style="animation-delay: 0ms; transform-origin: center;">Prem Tamanam</text>
+    <text class="anim-target" x="24" y="72" font-family="'JetBrains Mono', monospace" font-size="14" fill="#00ff41" style="animation-delay: 300ms; transform-origin: center;">@josephbusinesses664-dot</text>
     
   
   
@@ -50,10 +107,51 @@
     <g transform="translate(0, 106)" id="widget-widget_ascii_title">
 
       
+          <style>
+            @keyframes typewriter-clip-widget_ascii_title-0 {
+              from { width: 0; }
+              to { width: 800px; }
+            }
+            
+            #widget-widget_ascii_title .typewriter-line-widget_ascii_title-0-0 {
+              animation: typewriter-clip-widget_ascii_title-0 314.2857142857143ms linear 0ms both;
+            }
+            #widget-widget_ascii_title .typewriter-line-widget_ascii_title-0-1 {
+              animation: typewriter-clip-widget_ascii_title-0 314.2857142857143ms linear 314.2857142857143ms both;
+            }
+            #widget-widget_ascii_title .typewriter-line-widget_ascii_title-0-2 {
+              animation: typewriter-clip-widget_ascii_title-0 314.2857142857143ms linear 628.5714285714286ms both;
+            }
+            #widget-widget_ascii_title .typewriter-line-widget_ascii_title-0-3 {
+              animation: typewriter-clip-widget_ascii_title-0 314.2857142857143ms linear 942.8571428571429ms both;
+            }
+            #widget-widget_ascii_title .typewriter-line-widget_ascii_title-0-4 {
+              animation: typewriter-clip-widget_ascii_title-0 314.2857142857143ms linear 1257.142857142857ms both;
+            }
+            #widget-widget_ascii_title .typewriter-line-widget_ascii_title-0-5 {
+              animation: typewriter-clip-widget_ascii_title-0 314.2857142857143ms linear 1571.4285714285713ms both;
+            }
+            #widget-widget_ascii_title .typewriter-line-widget_ascii_title-0-6 {
+              animation: typewriter-clip-widget_ascii_title-0 314.2857142857143ms linear 1885.7142857142858ms both;
+            }
+          </style>
+        
+      
+      <rect class="" x="0" y="0" width="800" height="120" fill="#0a0f0a" stroke="#1a3a1a" stroke-width="1" rx="0" />
       
       
-      
-      
+          <clipPath id="typewriter-clip-widget_ascii_title-0">
+            <rect class="typewriter-line-widget_ascii_title-0-0" x="0" y="0" width="0" height="18.8" />
+          <rect class="typewriter-line-widget_ascii_title-0-1" x="0" y="16.8" width="0" height="18.8" />
+          <rect class="typewriter-line-widget_ascii_title-0-2" x="0" y="33.6" width="0" height="18.8" />
+          <rect class="typewriter-line-widget_ascii_title-0-3" x="0" y="50.400000000000006" width="0" height="18.8" />
+          <rect class="typewriter-line-widget_ascii_title-0-4" x="0" y="67.2" width="0" height="18.8" />
+          <rect class="typewriter-line-widget_ascii_title-0-5" x="0" y="84" width="0" height="18.8" />
+          <rect class="typewriter-line-widget_ascii_title-0-6" x="0" y="100.80000000000001" width="0" height="18.8" />
+          
+          </clipPath>
+          <g clip-path="url(#typewriter-clip-widget_ascii_title-0)">
+            
     <svg x="16" y="16" width="768" height="88" viewBox="0 0 445.20000000000005 84" preserveAspectRatio="xMidYMid meet">
       <text x="0.00 8.40 16.80 25.20 33.60 42.00 50.40 58.80 67.20 75.60 84.00 92.40 100.80 109.20 117.60 126.00 134.40 142.80 151.20 159.60 168.00 176.40 184.80 193.20 201.60 210.00 218.40 226.80 235.20 243.60 252.00 260.40 268.80 277.20 285.60 294.00 302.40 310.80 319.20 327.60 336.00 344.40 352.80 361.20 369.60 378.00 386.40 394.80 403.20 411.60 420.00 428.40 436.80" y="14.28" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, Courier, monospace" font-size="14" fill="#00ff41" xml:space="preserve">████████  ▄████▄   ▄█████  ████████ ███████▄ ██    ██</text>
 <text x="0.00 8.40 16.80 25.20 33.60 42.00 50.40 58.80 67.20 75.60 84.00 92.40 100.80 109.20 117.60 126.00 134.40 142.80 151.20 159.60 168.00 176.40 184.80 193.20 201.60 210.00 218.40 226.80 235.20 243.60 252.00 260.40 268.80 277.20 285.60 294.00 302.40 310.80 319.20 327.60 336.00 344.40 352.80 361.20 369.60 378.00 386.40 394.80 403.20 411.60 420.00 428.40 436.80" y="31.080000000000002" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, Courier, monospace" font-size="14" fill="#00ff41" xml:space="preserve">   ██    ██    ██ ██       ██       ██    ██ ██    ██</text>
@@ -62,6 +160,8 @@
 <text x="0.00 8.40 16.80 25.20 33.60 42.00 50.40 58.80 67.20 75.60 84.00 92.40 100.80 109.20 117.60 126.00 134.40 142.80 151.20 159.60 168.00 176.40 184.80 193.20 201.60 210.00 218.40 226.80 235.20 243.60 252.00 260.40 268.80 277.20 285.60 294.00 302.40 310.80 319.20 327.60 336.00 344.40 352.80 361.20 369.60 378.00 386.40 394.80 403.20 411.60 420.00 428.40 436.80" y="81.48" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, Courier, monospace" font-size="14" fill="#00ff41" xml:space="preserve"> ▀██▀     ▀████▀  ██████▀  ████████ ██       ██    ██</text>
     </svg>
   
+          </g>
+        
   
     </g>
   
@@ -69,10 +169,55 @@
     <g transform="translate(0, 242)" id="widget-widget_terminal_info">
 
       
+          <style>
+            @keyframes typewriter-clip-widget_terminal_info-0 {
+              from { width: 0; }
+              to { width: 800px; }
+            }
+            
+            #widget-widget_terminal_info .typewriter-line-widget_terminal_info-0-0 {
+              animation: typewriter-clip-widget_terminal_info-0 275ms linear 0ms both;
+            }
+            #widget-widget_terminal_info .typewriter-line-widget_terminal_info-0-1 {
+              animation: typewriter-clip-widget_terminal_info-0 275ms linear 275ms both;
+            }
+            #widget-widget_terminal_info .typewriter-line-widget_terminal_info-0-2 {
+              animation: typewriter-clip-widget_terminal_info-0 275ms linear 550ms both;
+            }
+            #widget-widget_terminal_info .typewriter-line-widget_terminal_info-0-3 {
+              animation: typewriter-clip-widget_terminal_info-0 275ms linear 825ms both;
+            }
+            #widget-widget_terminal_info .typewriter-line-widget_terminal_info-0-4 {
+              animation: typewriter-clip-widget_terminal_info-0 275ms linear 1100ms both;
+            }
+            #widget-widget_terminal_info .typewriter-line-widget_terminal_info-0-5 {
+              animation: typewriter-clip-widget_terminal_info-0 275ms linear 1375ms both;
+            }
+            #widget-widget_terminal_info .typewriter-line-widget_terminal_info-0-6 {
+              animation: typewriter-clip-widget_terminal_info-0 275ms linear 1650ms both;
+            }
+            #widget-widget_terminal_info .typewriter-line-widget_terminal_info-0-7 {
+              animation: typewriter-clip-widget_terminal_info-0 275ms linear 1925ms both;
+            }
+          </style>
+        
       
       <rect class="" x="0" y="0" width="800" height="280" fill="#0a0f0a" stroke="#1a3a1a" stroke-width="1" rx="0" />
       
-      <text x="12" y="20" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#3d444d">─</tspan><tspan fill="#00ff41"> josephbusinesses664-dot@github </tspan><tspan fill="#3d444d">───────────────────────────────────────────────────────────</tspan></text>
+      
+          <clipPath id="typewriter-clip-widget_terminal_info-0">
+            <rect class="typewriter-line-widget_terminal_info-0-0" x="0" y="4" width="0" height="22" />
+          <rect class="typewriter-line-widget_terminal_info-0-1" x="0" y="22" width="0" height="22" />
+          <rect class="typewriter-line-widget_terminal_info-0-2" x="0" y="40" width="0" height="22" />
+          <rect class="typewriter-line-widget_terminal_info-0-3" x="0" y="66" width="0" height="22" />
+          <rect class="typewriter-line-widget_terminal_info-0-4" x="0" y="84" width="0" height="22" />
+          <rect class="typewriter-line-widget_terminal_info-0-5" x="0" y="110" width="0" height="22" />
+          <rect class="typewriter-line-widget_terminal_info-0-6" x="0" y="128" width="0" height="22" />
+          <rect class="typewriter-line-widget_terminal_info-0-7" x="0" y="146" width="0" height="22" />
+          
+          </clipPath>
+          <g clip-path="url(#typewriter-clip-widget_terminal_info-0)">
+            <text x="12" y="20" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#3d444d">─</tspan><tspan fill="#00ff41"> josephbusinesses664-dot@github </tspan><tspan fill="#3d444d">───────────────────────────────────────────────────────────</tspan></text>
 <text x="12" y="38" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#79c0ff">. Uptime: </tspan><tspan fill="#234e23">..................................................................</tspan><tspan fill="#00ff41"> 4 months, 1 day</tspan></text>
 <text x="12" y="56" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#79c0ff">. Languages: </tspan><tspan fill="#234e23">...................................</tspan><tspan fill="#00ff41"> Python, HTML, TypeScript, Dockerfile, Shell</tspan></text>
 <text x="12" y="82" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#3d444d">─</tspan><tspan fill="#00ff41"> Contact </tspan><tspan fill="#3d444d">──────────────────────────────────────────────────────────────────────────────────</tspan></text>
@@ -80,124 +225,323 @@
 <text x="12" y="126" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#3d444d">─</tspan><tspan fill="#00ff41"> GitHub Stats </tspan><tspan fill="#3d444d">─────────────────────────────────────────────────────────────────────────────</tspan></text>
 <text x="12" y="144" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#79c0ff">. Repos: </tspan><tspan fill="#234e23">................................</tspan><tspan fill="#00ff41"> 63</tspan><tspan fill="#3d444d"> | </tspan><tspan fill="#79c0ff">. Stars: </tspan><tspan fill="#234e23">.................................</tspan><tspan fill="#00ff41"> 0</tspan></text>
 <text x="12" y="162" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#79c0ff">. Commits: </tspan><tspan fill="#234e23">...........................</tspan><tspan fill="#00ff41"> 2,126</tspan><tspan fill="#3d444d"> | </tspan><tspan fill="#79c0ff">. Followers: </tspan><tspan fill="#234e23">.............................</tspan><tspan fill="#00ff41"> 0</tspan></text>
+          </g>
+        
   
     </g>
   
 
-    <g transform="translate(0, 538)" id="widget-widget_stats">
+    <g transform="translate(0, 538)" id="widget-widget_marquee">
 
+      
+      
+      
+      
+      
+    <svg xmlns="http://www.w3.org/2000/svg" width="800" height="60" viewBox="0 0 800 60" preserveAspectRatio="xMidYMid meet">
+      <defs>
+        <linearGradient id="mqBg-widget_marquee" x1="0" y1="0" x2="1" y2="0">
+          <stop offset="0%" stop-color="#0b0f14"/>
+          <stop offset="100%" stop-color="#151c25"/>
+        </linearGradient>
+        <clipPath id="mqClip-widget_marquee">
+          <rect width="800" height="60" rx="10"/>
+        </clipPath>
+        <style>
+          @keyframes mqScroll-widget_marquee {
+            0% { transform: translateX(0px); }
+            100% { transform: translateX(-950px); }
+          }
+          .mq-track-widget_marquee {
+            animation: mqScroll-widget_marquee 30s linear infinite;
+            will-change: transform;
+          }
+        </style>
+      </defs>
+      <rect width="800" height="60" rx="10" fill="url(#mqBg-widget_marquee)"/>
+      <rect width="800" height="60" rx="10" fill="none" stroke="#2b303a" stroke-width="1" opacity="0.5"/>
+      <g clip-path="url(#mqClip-widget_marquee)">
+        <g class="mq-track-widget_marquee">
+          <rect x="0" y="16" width="70" height="28" rx="14" fill="rgba(0,255,65,0.15)" stroke="rgba(0,255,65,0.45)" stroke-width="1"/>
+<text x="35" y="35" font-family="Consolas, monospace" font-size="12" fill="#00ff41" text-anchor="middle" dominant-baseline="auto" font-weight="500">python</text>
+<rect x="80" y="16" width="98" height="28" rx="14" fill="rgba(0,255,65,0.15)" stroke="rgba(0,255,65,0.45)" stroke-width="1"/>
+<text x="129" y="35" font-family="Consolas, monospace" font-size="12" fill="#00ff41" text-anchor="middle" dominant-baseline="auto" font-weight="500">TypeScript</text>
+<rect x="188" y="16" width="98" height="28" rx="14" fill="rgba(0,255,65,0.15)" stroke="rgba(0,255,65,0.45)" stroke-width="1"/>
+<text x="237" y="35" font-family="Consolas, monospace" font-size="12" fill="#00ff41" text-anchor="middle" dominant-baseline="auto" font-weight="500">JavaScript</text>
+<rect x="296" y="16" width="56" height="28" rx="14" fill="rgba(0,255,65,0.15)" stroke="rgba(0,255,65,0.45)" stroke-width="1"/>
+<text x="324" y="35" font-family="Consolas, monospace" font-size="12" fill="#00ff41" text-anchor="middle" dominant-baseline="auto" font-weight="500">Bash</text>
+<rect x="362" y="16" width="70" height="28" rx="14" fill="rgba(0,255,65,0.15)" stroke="rgba(0,255,65,0.45)" stroke-width="1"/>
+<text x="397" y="35" font-family="Consolas, monospace" font-size="12" fill="#00ff41" text-anchor="middle" dominant-baseline="auto" font-weight="500">Docker</text>
+<rect x="442" y="16" width="63" height="28" rx="14" fill="rgba(0,255,65,0.15)" stroke="rgba(0,255,65,0.45)" stroke-width="1"/>
+<text x="473" y="35" font-family="Consolas, monospace" font-size="12" fill="#00ff41" text-anchor="middle" dominant-baseline="auto" font-weight="500">Linux</text>
+<rect x="515" y="16" width="49" height="28" rx="14" fill="rgba(0,255,65,0.15)" stroke="rgba(0,255,65,0.45)" stroke-width="1"/>
+<text x="539" y="35" font-family="Consolas, monospace" font-size="12" fill="#00ff41" text-anchor="middle" dominant-baseline="auto" font-weight="500">Git</text>
+<rect x="574" y="16" width="126" height="28" rx="14" fill="rgba(0,255,65,0.15)" stroke="rgba(0,255,65,0.45)" stroke-width="1"/>
+<text x="637" y="35" font-family="Consolas, monospace" font-size="12" fill="#00ff41" text-anchor="middle" dominant-baseline="auto" font-weight="500">GitHub Actions</text>
+<rect x="710" y="16" width="63" height="28" rx="14" fill="rgba(0,255,65,0.15)" stroke="rgba(0,255,65,0.45)" stroke-width="1"/>
+<text x="741" y="35" font-family="Consolas, monospace" font-size="12" fill="#00ff41" text-anchor="middle" dominant-baseline="auto" font-weight="500">React</text>
+<rect x="783" y="16" width="77" height="28" rx="14" fill="rgba(0,255,65,0.15)" stroke="rgba(0,255,65,0.45)" stroke-width="1"/>
+<text x="821" y="35" font-family="Consolas, monospace" font-size="12" fill="#00ff41" text-anchor="middle" dominant-baseline="auto" font-weight="500">Next.js</text>
+<rect x="870" y="16" width="70" height="28" rx="14" fill="rgba(0,255,65,0.15)" stroke="rgba(0,255,65,0.45)" stroke-width="1"/>
+<text x="905" y="35" font-family="Consolas, monospace" font-size="12" fill="#00ff41" text-anchor="middle" dominant-baseline="auto" font-weight="500">SQLite</text>
+<rect x="950" y="16" width="70" height="28" rx="14" fill="rgba(0,255,65,0.15)" stroke="rgba(0,255,65,0.45)" stroke-width="1"/>
+<text x="985" y="35" font-family="Consolas, monospace" font-size="12" fill="#00ff41" text-anchor="middle" dominant-baseline="auto" font-weight="500">python</text>
+<rect x="1030" y="16" width="98" height="28" rx="14" fill="rgba(0,255,65,0.15)" stroke="rgba(0,255,65,0.45)" stroke-width="1"/>
+<text x="1079" y="35" font-family="Consolas, monospace" font-size="12" fill="#00ff41" text-anchor="middle" dominant-baseline="auto" font-weight="500">TypeScript</text>
+<rect x="1138" y="16" width="98" height="28" rx="14" fill="rgba(0,255,65,0.15)" stroke="rgba(0,255,65,0.45)" stroke-width="1"/>
+<text x="1187" y="35" font-family="Consolas, monospace" font-size="12" fill="#00ff41" text-anchor="middle" dominant-baseline="auto" font-weight="500">JavaScript</text>
+<rect x="1246" y="16" width="56" height="28" rx="14" fill="rgba(0,255,65,0.15)" stroke="rgba(0,255,65,0.45)" stroke-width="1"/>
+<text x="1274" y="35" font-family="Consolas, monospace" font-size="12" fill="#00ff41" text-anchor="middle" dominant-baseline="auto" font-weight="500">Bash</text>
+<rect x="1312" y="16" width="70" height="28" rx="14" fill="rgba(0,255,65,0.15)" stroke="rgba(0,255,65,0.45)" stroke-width="1"/>
+<text x="1347" y="35" font-family="Consolas, monospace" font-size="12" fill="#00ff41" text-anchor="middle" dominant-baseline="auto" font-weight="500">Docker</text>
+<rect x="1392" y="16" width="63" height="28" rx="14" fill="rgba(0,255,65,0.15)" stroke="rgba(0,255,65,0.45)" stroke-width="1"/>
+<text x="1423" y="35" font-family="Consolas, monospace" font-size="12" fill="#00ff41" text-anchor="middle" dominant-baseline="auto" font-weight="500">Linux</text>
+<rect x="1465" y="16" width="49" height="28" rx="14" fill="rgba(0,255,65,0.15)" stroke="rgba(0,255,65,0.45)" stroke-width="1"/>
+<text x="1489" y="35" font-family="Consolas, monospace" font-size="12" fill="#00ff41" text-anchor="middle" dominant-baseline="auto" font-weight="500">Git</text>
+<rect x="1524" y="16" width="126" height="28" rx="14" fill="rgba(0,255,65,0.15)" stroke="rgba(0,255,65,0.45)" stroke-width="1"/>
+<text x="1587" y="35" font-family="Consolas, monospace" font-size="12" fill="#00ff41" text-anchor="middle" dominant-baseline="auto" font-weight="500">GitHub Actions</text>
+<rect x="1660" y="16" width="63" height="28" rx="14" fill="rgba(0,255,65,0.15)" stroke="rgba(0,255,65,0.45)" stroke-width="1"/>
+<text x="1691" y="35" font-family="Consolas, monospace" font-size="12" fill="#00ff41" text-anchor="middle" dominant-baseline="auto" font-weight="500">React</text>
+<rect x="1733" y="16" width="77" height="28" rx="14" fill="rgba(0,255,65,0.15)" stroke="rgba(0,255,65,0.45)" stroke-width="1"/>
+<text x="1771" y="35" font-family="Consolas, monospace" font-size="12" fill="#00ff41" text-anchor="middle" dominant-baseline="auto" font-weight="500">Next.js</text>
+<rect x="1820" y="16" width="70" height="28" rx="14" fill="rgba(0,255,65,0.15)" stroke="rgba(0,255,65,0.45)" stroke-width="1"/>
+<text x="1855" y="35" font-family="Consolas, monospace" font-size="12" fill="#00ff41" text-anchor="middle" dominant-baseline="auto" font-weight="500">SQLite</text>
+          <rect x="950" y="16" width="70" height="28" rx="14" fill="rgba(0,255,65,0.15)" stroke="rgba(0,255,65,0.45)" stroke-width="1"/>
+<text x="985" y="35" font-family="Consolas, monospace" font-size="12" fill="#00ff41" text-anchor="middle" dominant-baseline="auto" font-weight="500">python</text>
+<rect x="1030" y="16" width="98" height="28" rx="14" fill="rgba(0,255,65,0.15)" stroke="rgba(0,255,65,0.45)" stroke-width="1"/>
+<text x="1079" y="35" font-family="Consolas, monospace" font-size="12" fill="#00ff41" text-anchor="middle" dominant-baseline="auto" font-weight="500">TypeScript</text>
+<rect x="1138" y="16" width="98" height="28" rx="14" fill="rgba(0,255,65,0.15)" stroke="rgba(0,255,65,0.45)" stroke-width="1"/>
+<text x="1187" y="35" font-family="Consolas, monospace" font-size="12" fill="#00ff41" text-anchor="middle" dominant-baseline="auto" font-weight="500">JavaScript</text>
+<rect x="1246" y="16" width="56" height="28" rx="14" fill="rgba(0,255,65,0.15)" stroke="rgba(0,255,65,0.45)" stroke-width="1"/>
+<text x="1274" y="35" font-family="Consolas, monospace" font-size="12" fill="#00ff41" text-anchor="middle" dominant-baseline="auto" font-weight="500">Bash</text>
+<rect x="1312" y="16" width="70" height="28" rx="14" fill="rgba(0,255,65,0.15)" stroke="rgba(0,255,65,0.45)" stroke-width="1"/>
+<text x="1347" y="35" font-family="Consolas, monospace" font-size="12" fill="#00ff41" text-anchor="middle" dominant-baseline="auto" font-weight="500">Docker</text>
+<rect x="1392" y="16" width="63" height="28" rx="14" fill="rgba(0,255,65,0.15)" stroke="rgba(0,255,65,0.45)" stroke-width="1"/>
+<text x="1423" y="35" font-family="Consolas, monospace" font-size="12" fill="#00ff41" text-anchor="middle" dominant-baseline="auto" font-weight="500">Linux</text>
+<rect x="1465" y="16" width="49" height="28" rx="14" fill="rgba(0,255,65,0.15)" stroke="rgba(0,255,65,0.45)" stroke-width="1"/>
+<text x="1489" y="35" font-family="Consolas, monospace" font-size="12" fill="#00ff41" text-anchor="middle" dominant-baseline="auto" font-weight="500">Git</text>
+<rect x="1524" y="16" width="126" height="28" rx="14" fill="rgba(0,255,65,0.15)" stroke="rgba(0,255,65,0.45)" stroke-width="1"/>
+<text x="1587" y="35" font-family="Consolas, monospace" font-size="12" fill="#00ff41" text-anchor="middle" dominant-baseline="auto" font-weight="500">GitHub Actions</text>
+<rect x="1660" y="16" width="63" height="28" rx="14" fill="rgba(0,255,65,0.15)" stroke="rgba(0,255,65,0.45)" stroke-width="1"/>
+<text x="1691" y="35" font-family="Consolas, monospace" font-size="12" fill="#00ff41" text-anchor="middle" dominant-baseline="auto" font-weight="500">React</text>
+<rect x="1733" y="16" width="77" height="28" rx="14" fill="rgba(0,255,65,0.15)" stroke="rgba(0,255,65,0.45)" stroke-width="1"/>
+<text x="1771" y="35" font-family="Consolas, monospace" font-size="12" fill="#00ff41" text-anchor="middle" dominant-baseline="auto" font-weight="500">Next.js</text>
+<rect x="1820" y="16" width="70" height="28" rx="14" fill="rgba(0,255,65,0.15)" stroke="rgba(0,255,65,0.45)" stroke-width="1"/>
+<text x="1855" y="35" font-family="Consolas, monospace" font-size="12" fill="#00ff41" text-anchor="middle" dominant-baseline="auto" font-weight="500">SQLite</text>
+<rect x="1900" y="16" width="70" height="28" rx="14" fill="rgba(0,255,65,0.15)" stroke="rgba(0,255,65,0.45)" stroke-width="1"/>
+<text x="1935" y="35" font-family="Consolas, monospace" font-size="12" fill="#00ff41" text-anchor="middle" dominant-baseline="auto" font-weight="500">python</text>
+<rect x="1980" y="16" width="98" height="28" rx="14" fill="rgba(0,255,65,0.15)" stroke="rgba(0,255,65,0.45)" stroke-width="1"/>
+<text x="2029" y="35" font-family="Consolas, monospace" font-size="12" fill="#00ff41" text-anchor="middle" dominant-baseline="auto" font-weight="500">TypeScript</text>
+<rect x="2088" y="16" width="98" height="28" rx="14" fill="rgba(0,255,65,0.15)" stroke="rgba(0,255,65,0.45)" stroke-width="1"/>
+<text x="2137" y="35" font-family="Consolas, monospace" font-size="12" fill="#00ff41" text-anchor="middle" dominant-baseline="auto" font-weight="500">JavaScript</text>
+<rect x="2196" y="16" width="56" height="28" rx="14" fill="rgba(0,255,65,0.15)" stroke="rgba(0,255,65,0.45)" stroke-width="1"/>
+<text x="2224" y="35" font-family="Consolas, monospace" font-size="12" fill="#00ff41" text-anchor="middle" dominant-baseline="auto" font-weight="500">Bash</text>
+<rect x="2262" y="16" width="70" height="28" rx="14" fill="rgba(0,255,65,0.15)" stroke="rgba(0,255,65,0.45)" stroke-width="1"/>
+<text x="2297" y="35" font-family="Consolas, monospace" font-size="12" fill="#00ff41" text-anchor="middle" dominant-baseline="auto" font-weight="500">Docker</text>
+<rect x="2342" y="16" width="63" height="28" rx="14" fill="rgba(0,255,65,0.15)" stroke="rgba(0,255,65,0.45)" stroke-width="1"/>
+<text x="2373" y="35" font-family="Consolas, monospace" font-size="12" fill="#00ff41" text-anchor="middle" dominant-baseline="auto" font-weight="500">Linux</text>
+<rect x="2415" y="16" width="49" height="28" rx="14" fill="rgba(0,255,65,0.15)" stroke="rgba(0,255,65,0.45)" stroke-width="1"/>
+<text x="2439" y="35" font-family="Consolas, monospace" font-size="12" fill="#00ff41" text-anchor="middle" dominant-baseline="auto" font-weight="500">Git</text>
+<rect x="2474" y="16" width="126" height="28" rx="14" fill="rgba(0,255,65,0.15)" stroke="rgba(0,255,65,0.45)" stroke-width="1"/>
+<text x="2537" y="35" font-family="Consolas, monospace" font-size="12" fill="#00ff41" text-anchor="middle" dominant-baseline="auto" font-weight="500">GitHub Actions</text>
+<rect x="2610" y="16" width="63" height="28" rx="14" fill="rgba(0,255,65,0.15)" stroke="rgba(0,255,65,0.45)" stroke-width="1"/>
+<text x="2641" y="35" font-family="Consolas, monospace" font-size="12" fill="#00ff41" text-anchor="middle" dominant-baseline="auto" font-weight="500">React</text>
+<rect x="2683" y="16" width="77" height="28" rx="14" fill="rgba(0,255,65,0.15)" stroke="rgba(0,255,65,0.45)" stroke-width="1"/>
+<text x="2721" y="35" font-family="Consolas, monospace" font-size="12" fill="#00ff41" text-anchor="middle" dominant-baseline="auto" font-weight="500">Next.js</text>
+<rect x="2770" y="16" width="70" height="28" rx="14" fill="rgba(0,255,65,0.15)" stroke="rgba(0,255,65,0.45)" stroke-width="1"/>
+<text x="2805" y="35" font-family="Consolas, monospace" font-size="12" fill="#00ff41" text-anchor="middle" dominant-baseline="auto" font-weight="500">SQLite</text>
+        </g>
+      </g>
+    </svg>
+  
+  
+    </g>
+  
+
+    <g transform="translate(0, 614)" id="widget-widget_stats">
+
+      
+        <style>
+          @keyframes svg-fade-in-widget_stats-0 {
+            from { opacity: 0; }
+            to { opacity: 1; }
+          }
+          @keyframes svg-slide-up-widget_stats-0 {
+            from { opacity: 0; transform: translateY(8px); }
+            to { opacity: 1; transform: translateY(0); }
+          }
+          @keyframes svg-slide-down-widget_stats-0 {
+            from { opacity: 0; transform: translateY(-8px); }
+            to { opacity: 1; transform: translateY(0); }
+          }
+          @keyframes svg-slide-left-widget_stats-0 {
+            from { opacity: 0; transform: translateX(12px); }
+            to { opacity: 1; transform: translateX(0); }
+          }
+          @keyframes svg-slide-right-widget_stats-0 {
+            from { opacity: 0; transform: translateX(-12px); }
+            to { opacity: 1; transform: translateX(0); }
+          }
+          @keyframes svg-zoom-in-widget_stats-0 {
+            from { opacity: 0; transform: scale(0.9); }
+            to { opacity: 1; transform: scale(1); }
+          }
+          @keyframes svg-zoom-out-widget_stats-0 {
+            from { opacity: 0; transform: scale(1.1); }
+            to { opacity: 1; transform: scale(1); }
+          }
+          @keyframes svg-flip-x-widget_stats-0 {
+            from { opacity: 0; transform: perspective(400px) rotateX(90deg); }
+            to { opacity: 1; transform: perspective(400px) rotateX(0deg); }
+          }
+          @keyframes svg-flip-y-widget_stats-0 {
+            from { opacity: 0; transform: perspective(400px) rotateY(90deg); }
+            to { opacity: 1; transform: perspective(400px) rotateY(0deg); }
+          }
+          @keyframes svg-glitch-widget_stats-0 {
+            0% { opacity: 0; transform: skewX(10deg); }
+            20% { opacity: 0.8; transform: skewX(-10deg); }
+            40% { opacity: 0.5; transform: skewX(5deg); }
+            60% { opacity: 0.9; transform: skewX(0deg); }
+            100% { opacity: 1; }
+          }
+          @keyframes svg-scan-lines-widget_stats-0 {
+            0% { opacity: 0; clip-path: inset(100% 0 0 0); }
+            100% { opacity: 1; clip-path: inset(0 0 0 0); }
+          }
+
+          #widget-widget_stats .anim-target {
+            animation-name: svg-fade-in-widget_stats-0;
+            animation-duration: 1500ms;
+            animation-timing-function: ease-out;
+            animation-fill-mode: both;
+          }
+        </style>
       
       
       <rect class="" x="0" y="0" width="800" height="90" fill="#0a0f0a" stroke="#1a3a1a" stroke-width="1" rx="0" />
       
       
-    <text x="24" y="32" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="500" fill="#7a7a7a" letter-spacing="2">[ GITHUB METRICS ]</text>
+    <text class="anim-target" x="24" y="32" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="500" fill="#7a7a7a" letter-spacing="2" style="animation-delay: 0ms; transform-origin: center;">[ GITHUB METRICS ]</text>
     
         <g transform="translate(24, 48)">
-          <text x="0" y="18" font-family="'JetBrains Mono', monospace" font-size="13" fill="#00ff41">[ 0 ]</text>
-          <text x="0" y="32" font-family="'JetBrains Mono', monospace" font-size="9" fill="#7a7a7a" letter-spacing="2">STARS</text>
+          <text class="anim-target" x="0" y="18" font-family="'JetBrains Mono', monospace" font-size="13" fill="#00ff41" style="animation-delay: 46ms; transform-origin: center;">[ 0 ]</text>
+          <text class="anim-target" x="0" y="32" font-family="'JetBrains Mono', monospace" font-size="9" fill="#7a7a7a" letter-spacing="2" style="animation-delay: 92ms; transform-origin: center;">STARS</text>
         </g>
         <g transform="translate(149.33333333333331, 48)">
-          <text x="0" y="18" font-family="'JetBrains Mono', monospace" font-size="13" fill="#00ff41">[ 63 ]</text>
-          <text x="0" y="32" font-family="'JetBrains Mono', monospace" font-size="9" fill="#7a7a7a" letter-spacing="2">REPOS</text>
+          <text class="anim-target" x="0" y="18" font-family="'JetBrains Mono', monospace" font-size="13" fill="#00ff41" style="animation-delay: 138ms; transform-origin: center;">[ 63 ]</text>
+          <text class="anim-target" x="0" y="32" font-family="'JetBrains Mono', monospace" font-size="9" fill="#7a7a7a" letter-spacing="2" style="animation-delay: 185ms; transform-origin: center;">REPOS</text>
         </g>
         <g transform="translate(274.66666666666663, 48)">
-          <text x="0" y="18" font-family="'JetBrains Mono', monospace" font-size="13" fill="#00ff41">[ 0 ]</text>
-          <text x="0" y="32" font-family="'JetBrains Mono', monospace" font-size="9" fill="#7a7a7a" letter-spacing="2">FOLLOWERS</text>
+          <text class="anim-target" x="0" y="18" font-family="'JetBrains Mono', monospace" font-size="13" fill="#00ff41" style="animation-delay: 231ms; transform-origin: center;">[ 0 ]</text>
+          <text class="anim-target" x="0" y="32" font-family="'JetBrains Mono', monospace" font-size="9" fill="#7a7a7a" letter-spacing="2" style="animation-delay: 277ms; transform-origin: center;">FOLLOWERS</text>
         </g>
         <g transform="translate(400, 48)">
-          <text x="0" y="18" font-family="'JetBrains Mono', monospace" font-size="13" fill="#00ff41">[ 0 ]</text>
-          <text x="0" y="32" font-family="'JetBrains Mono', monospace" font-size="9" fill="#7a7a7a" letter-spacing="2">FOLLOWING</text>
+          <text class="anim-target" x="0" y="18" font-family="'JetBrains Mono', monospace" font-size="13" fill="#00ff41" style="animation-delay: 323ms; transform-origin: center;">[ 0 ]</text>
+          <text class="anim-target" x="0" y="32" font-family="'JetBrains Mono', monospace" font-size="9" fill="#7a7a7a" letter-spacing="2" style="animation-delay: 369ms; transform-origin: center;">FOLLOWING</text>
         </g>
         <g transform="translate(525.3333333333333, 48)">
-          <text x="0" y="18" font-family="'JetBrains Mono', monospace" font-size="13" fill="#00ff41">[ 0 ]</text>
-          <text x="0" y="32" font-family="'JetBrains Mono', monospace" font-size="9" fill="#7a7a7a" letter-spacing="2">FORKS</text>
+          <text class="anim-target" x="0" y="18" font-family="'JetBrains Mono', monospace" font-size="13" fill="#00ff41" style="animation-delay: 415ms; transform-origin: center;">[ 0 ]</text>
+          <text class="anim-target" x="0" y="32" font-family="'JetBrains Mono', monospace" font-size="9" fill="#7a7a7a" letter-spacing="2" style="animation-delay: 462ms; transform-origin: center;">FORKS</text>
         </g>
         <g transform="translate(650.6666666666666, 48)">
-          <text x="0" y="18" font-family="'JetBrains Mono', monospace" font-size="13" fill="#00ff41">[ 0 ]</text>
-          <text x="0" y="32" font-family="'JetBrains Mono', monospace" font-size="9" fill="#7a7a7a" letter-spacing="2">GISTS</text>
+          <text class="anim-target" x="0" y="18" font-family="'JetBrains Mono', monospace" font-size="13" fill="#00ff41" style="animation-delay: 508ms; transform-origin: center;">[ 0 ]</text>
+          <text class="anim-target" x="0" y="32" font-family="'JetBrains Mono', monospace" font-size="9" fill="#7a7a7a" letter-spacing="2" style="animation-delay: 554ms; transform-origin: center;">GISTS</text>
         </g>
   
   
     </g>
   
 
-    <g transform="translate(0, 644)" id="widget-widget_repositories">
+    <g transform="translate(0, 720)" id="widget-widget_languages">
 
       
-      
-      <rect class="" x="0" y="0" width="800" height="180" fill="#0a0f0a" stroke="#1a3a1a" stroke-width="1" rx="0" />
-      
-      
-      <text x="24" y="32" font-family="'Inter Tight', sans-serif" font-size="11" font-weight="500" fill="#7a7a7a" letter-spacing="2">[ FEATURED REPOSITORIES ]</text>
-      
-        <g transform="translate(24, 50)">
-          <rect x="0" y="0" width="370" height="80" fill="#1e1e1e" rx="4" />
-          <rect x="0" y="0" width="4" height="80" fill="#00ff41" rx="2" />
-          <text x="12" y="20" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="500" fill="#00ff41">agent_os2</text>
-          <text x="362" y="20" text-anchor="end" font-family="'Inter Tight', sans-serif" font-size="11" fill="#7a7a7a">★ 0</text>
-          <text x="12" y="38" font-family="'Inter Tight', sans-serif" font-size="10" fill="#7a7a7a">Agent OS 2 — unified multi-agent AI agen…</text>
-          <text x="12" y="70" font-family="'Inter Tight', sans-serif" font-size="10" fill="#00ff41">Python</text>
-          
-        </g>
-      
-        <g transform="translate(406, 50)">
-          <rect x="0" y="0" width="370" height="80" fill="#1e1e1e" rx="4" />
-          <rect x="0" y="0" width="4" height="80" fill="#00ff41" rx="2" />
-          <text x="12" y="20" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="500" fill="#00ff41">Prem-ium.inc-cli…</text>
-          <text x="362" y="20" text-anchor="end" font-family="'Inter Tight', sans-serif" font-size="11" fill="#7a7a7a">★ 0</text>
-          <text x="12" y="38" font-family="'Inter Tight', sans-serif" font-size="10" fill="#7a7a7a">openclaw client portal</text>
-          <text x="12" y="70" font-family="'Inter Tight', sans-serif" font-size="10" fill="#00ff41">HTML</text>
-          
-        </g>
-      
-        <g transform="translate(24, 142)">
-          <rect x="0" y="0" width="370" height="80" fill="#1e1e1e" rx="4" />
-          <rect x="0" y="0" width="4" height="80" fill="#00ff41" rx="2" />
-          <text x="12" y="20" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="500" fill="#00ff41">browser-agent-muse</text>
-          <text x="362" y="20" text-anchor="end" font-family="'Inter Tight', sans-serif" font-size="11" fill="#7a7a7a">★ 0</text>
-          <text x="12" y="38" font-family="'Inter Tight', sans-serif" font-size="10" fill="#7a7a7a">browser agent coupled together with open…</text>
-          
-          
-        </g>
-      
-    
-  
-    </g>
-  
+        <style>
+          @keyframes svg-fade-in-widget_languages-0 {
+            from { opacity: 0; }
+            to { opacity: 1; }
+          }
+          @keyframes svg-slide-up-widget_languages-0 {
+            from { opacity: 0; transform: translateY(8px); }
+            to { opacity: 1; transform: translateY(0); }
+          }
+          @keyframes svg-slide-down-widget_languages-0 {
+            from { opacity: 0; transform: translateY(-8px); }
+            to { opacity: 1; transform: translateY(0); }
+          }
+          @keyframes svg-slide-left-widget_languages-0 {
+            from { opacity: 0; transform: translateX(12px); }
+            to { opacity: 1; transform: translateX(0); }
+          }
+          @keyframes svg-slide-right-widget_languages-0 {
+            from { opacity: 0; transform: translateX(-12px); }
+            to { opacity: 1; transform: translateX(0); }
+          }
+          @keyframes svg-zoom-in-widget_languages-0 {
+            from { opacity: 0; transform: scale(0.9); }
+            to { opacity: 1; transform: scale(1); }
+          }
+          @keyframes svg-zoom-out-widget_languages-0 {
+            from { opacity: 0; transform: scale(1.1); }
+            to { opacity: 1; transform: scale(1); }
+          }
+          @keyframes svg-flip-x-widget_languages-0 {
+            from { opacity: 0; transform: perspective(400px) rotateX(90deg); }
+            to { opacity: 1; transform: perspective(400px) rotateX(0deg); }
+          }
+          @keyframes svg-flip-y-widget_languages-0 {
+            from { opacity: 0; transform: perspective(400px) rotateY(90deg); }
+            to { opacity: 1; transform: perspective(400px) rotateY(0deg); }
+          }
+          @keyframes svg-glitch-widget_languages-0 {
+            0% { opacity: 0; transform: skewX(10deg); }
+            20% { opacity: 0.8; transform: skewX(-10deg); }
+            40% { opacity: 0.5; transform: skewX(5deg); }
+            60% { opacity: 0.9; transform: skewX(0deg); }
+            100% { opacity: 1; }
+          }
+          @keyframes svg-scan-lines-widget_languages-0 {
+            0% { opacity: 0; clip-path: inset(100% 0 0 0); }
+            100% { opacity: 1; clip-path: inset(0 0 0 0); }
+          }
 
-    <g transform="translate(0, 840)" id="widget-widget_languages">
-
+          #widget-widget_languages .anim-target {
+            animation-name: svg-scan-lines-widget_languages-0;
+            animation-duration: 1800ms;
+            animation-timing-function: ease-out;
+            animation-fill-mode: both;
+          }
+        </style>
       
       
       <rect class="" x="0" y="0" width="800" height="130" fill="#0a0f0a" stroke="#1a3a1a" stroke-width="1" rx="0" />
       
       
-    <text x="24" y="32" font-family="'Inter Tight', sans-serif" font-size="11" font-weight="500" fill="#7a7a7a" letter-spacing="2">[ TOP LANGUAGES ]</text>
-    <rect x="24" y="52" width="665.7049180327868" height="8" fill="#e34c26" rx="2" /><rect x="689.7049180327868" y="52" width="36.98360655737705" height="8" fill="#3572A5" rx="2" /><rect x="726.6885245901639" y="52" width="18.491803278688526" height="8" fill="#00ff41" rx="2" /><rect x="745.1803278688524" y="52" width="18.491803278688526" height="8" fill="#f1e05a" rx="2" /><rect x="763.6721311475409" y="52" width="12.327868852459018" height="8" fill="#3178c6" rx="2" />
+    <text class="anim-target" x="24" y="32" font-family="'Inter Tight', sans-serif" font-size="11" font-weight="500" fill="#7a7a7a" letter-spacing="2" style="animation-delay: 0ms; transform-origin: center;">[ TOP LANGUAGES ]</text>
+    <rect class="anim-target" x="24" y="52" width="665.7049180327868" height="8" fill="#e34c26" rx="2"  style="animation-delay: 29ms; transform-origin: center;" /><rect class="anim-target" x="689.7049180327868" y="52" width="36.98360655737705" height="8" fill="#3572A5" rx="2"  style="animation-delay: 57ms; transform-origin: center;" /><rect class="anim-target" x="726.6885245901639" y="52" width="18.491803278688526" height="8" fill="#00ff41" rx="2"  style="animation-delay: 86ms; transform-origin: center;" /><rect class="anim-target" x="745.1803278688524" y="52" width="18.491803278688526" height="8" fill="#f1e05a" rx="2"  style="animation-delay: 114ms; transform-origin: center;" /><rect class="anim-target" x="763.6721311475409" y="52" width="12.327868852459018" height="8" fill="#3178c6" rx="2"  style="animation-delay: 143ms; transform-origin: center;" />
       <g transform="translate(24, 80)">
-        <circle cx="6" cy="-4" r="4" fill="#e34c26" />
-        <text x="16" y="0" font-family="'Inter Tight', sans-serif" font-size="12" fill="#00ff41">HTML <tspan fill="#7a7a7a">89%</tspan></text>
+        <circle class="anim-target" cx="6" cy="-4" r="4" fill="#e34c26"  style="animation-delay: 171ms; transform-origin: center;" />
+        <text class="anim-target" x="16" y="0" font-family="'Inter Tight', sans-serif" font-size="12" fill="#00ff41" style="animation-delay: 200ms; transform-origin: center;">HTML <tspan class="anim-target" fill="#7a7a7a" style="animation-delay: 229ms; transform-origin: center;">89%</tspan></text>
       </g>
     
       <g transform="translate(400, 80)">
-        <circle cx="6" cy="-4" r="4" fill="#3572A5" />
-        <text x="16" y="0" font-family="'Inter Tight', sans-serif" font-size="12" fill="#00ff41">Python <tspan fill="#7a7a7a">5%</tspan></text>
+        <circle class="anim-target" cx="6" cy="-4" r="4" fill="#3572A5"  style="animation-delay: 257ms; transform-origin: center;" />
+        <text class="anim-target" x="16" y="0" font-family="'Inter Tight', sans-serif" font-size="12" fill="#00ff41" style="animation-delay: 286ms; transform-origin: center;">Python <tspan class="anim-target" fill="#7a7a7a" style="animation-delay: 314ms; transform-origin: center;">5%</tspan></text>
       </g>
     
       <g transform="translate(24, 104)">
-        <circle cx="6" cy="-4" r="4" fill="#00ff41" />
-        <text x="16" y="0" font-family="'Inter Tight', sans-serif" font-size="12" fill="#00ff41">Dockerfile <tspan fill="#7a7a7a">2%</tspan></text>
+        <circle class="anim-target" cx="6" cy="-4" r="4" fill="#00ff41"  style="animation-delay: 343ms; transform-origin: center;" />
+        <text class="anim-target" x="16" y="0" font-family="'Inter Tight', sans-serif" font-size="12" fill="#00ff41" style="animation-delay: 371ms; transform-origin: center;">Dockerfile <tspan class="anim-target" fill="#7a7a7a" style="animation-delay: 400ms; transform-origin: center;">2%</tspan></text>
       </g>
     
       <g transform="translate(400, 104)">
-        <circle cx="6" cy="-4" r="4" fill="#f1e05a" />
-        <text x="16" y="0" font-family="'Inter Tight', sans-serif" font-size="12" fill="#00ff41">JavaScript <tspan fill="#7a7a7a">2%</tspan></text>
+        <circle class="anim-target" cx="6" cy="-4" r="4" fill="#f1e05a"  style="animation-delay: 429ms; transform-origin: center;" />
+        <text class="anim-target" x="16" y="0" font-family="'Inter Tight', sans-serif" font-size="12" fill="#00ff41" style="animation-delay: 457ms; transform-origin: center;">JavaScript <tspan class="anim-target" fill="#7a7a7a" style="animation-delay: 486ms; transform-origin: center;">2%</tspan></text>
       </g>
     
       <g transform="translate(24, 128)">
-        <circle cx="6" cy="-4" r="4" fill="#3178c6" />
-        <text x="16" y="0" font-family="'Inter Tight', sans-serif" font-size="12" fill="#00ff41">TypeScript <tspan fill="#7a7a7a">2%</tspan></text>
+        <circle class="anim-target" cx="6" cy="-4" r="4" fill="#3178c6"  style="animation-delay: 514ms; transform-origin: center;" />
+        <text class="anim-target" x="16" y="0" font-family="'Inter Tight', sans-serif" font-size="12" fill="#00ff41" style="animation-delay: 543ms; transform-origin: center;">TypeScript <tspan class="anim-target" fill="#7a7a7a" style="animation-delay: 571ms; transform-origin: center;">2%</tspan></text>
       </g>
     
   
@@ -205,27 +549,141 @@
     </g>
   
 
-    <g transform="translate(0, 986)" id="widget-widget_divider">
+    <g transform="translate(0, 866)" id="widget-widget_divider">
 
+      
+        <style>
+          @keyframes svg-fade-in-widget_divider-0 {
+            from { opacity: 0; }
+            to { opacity: 1; }
+          }
+          @keyframes svg-slide-up-widget_divider-0 {
+            from { opacity: 0; transform: translateY(8px); }
+            to { opacity: 1; transform: translateY(0); }
+          }
+          @keyframes svg-slide-down-widget_divider-0 {
+            from { opacity: 0; transform: translateY(-8px); }
+            to { opacity: 1; transform: translateY(0); }
+          }
+          @keyframes svg-slide-left-widget_divider-0 {
+            from { opacity: 0; transform: translateX(12px); }
+            to { opacity: 1; transform: translateX(0); }
+          }
+          @keyframes svg-slide-right-widget_divider-0 {
+            from { opacity: 0; transform: translateX(-12px); }
+            to { opacity: 1; transform: translateX(0); }
+          }
+          @keyframes svg-zoom-in-widget_divider-0 {
+            from { opacity: 0; transform: scale(0.9); }
+            to { opacity: 1; transform: scale(1); }
+          }
+          @keyframes svg-zoom-out-widget_divider-0 {
+            from { opacity: 0; transform: scale(1.1); }
+            to { opacity: 1; transform: scale(1); }
+          }
+          @keyframes svg-flip-x-widget_divider-0 {
+            from { opacity: 0; transform: perspective(400px) rotateX(90deg); }
+            to { opacity: 1; transform: perspective(400px) rotateX(0deg); }
+          }
+          @keyframes svg-flip-y-widget_divider-0 {
+            from { opacity: 0; transform: perspective(400px) rotateY(90deg); }
+            to { opacity: 1; transform: perspective(400px) rotateY(0deg); }
+          }
+          @keyframes svg-glitch-widget_divider-0 {
+            0% { opacity: 0; transform: skewX(10deg); }
+            20% { opacity: 0.8; transform: skewX(-10deg); }
+            40% { opacity: 0.5; transform: skewX(5deg); }
+            60% { opacity: 0.9; transform: skewX(0deg); }
+            100% { opacity: 1; }
+          }
+          @keyframes svg-scan-lines-widget_divider-0 {
+            0% { opacity: 0; clip-path: inset(100% 0 0 0); }
+            100% { opacity: 1; clip-path: inset(0 0 0 0); }
+          }
+
+          #widget-widget_divider .anim-target {
+            animation-name: svg-fade-in-widget_divider-0;
+            animation-duration: 1000ms;
+            animation-timing-function: ease-out;
+            animation-fill-mode: both;
+          }
+        </style>
       
       
       <rect class="" x="0" y="0" width="800" height="24" fill="#0a0f0a" stroke="#1a3a1a" stroke-width="1" rx="0" />
       
-      <line x1="0" y1="12" x2="800" y2="12" stroke="#00ff41" stroke-width="4" />
+      <line class="anim-target" x1="0" y1="12" x2="800" y2="12" stroke="#00ff41" stroke-width="4"  style="animation-delay: 0ms; transform-origin: center;" />
   
     </g>
   
 
-    <g transform="translate(0, 1026)" id="widget-widget_footer">
+    <g transform="translate(0, 906)" id="widget-widget_footer">
 
+      
+        <style>
+          @keyframes svg-fade-in-widget_footer-0 {
+            from { opacity: 0; }
+            to { opacity: 1; }
+          }
+          @keyframes svg-slide-up-widget_footer-0 {
+            from { opacity: 0; transform: translateY(8px); }
+            to { opacity: 1; transform: translateY(0); }
+          }
+          @keyframes svg-slide-down-widget_footer-0 {
+            from { opacity: 0; transform: translateY(-8px); }
+            to { opacity: 1; transform: translateY(0); }
+          }
+          @keyframes svg-slide-left-widget_footer-0 {
+            from { opacity: 0; transform: translateX(12px); }
+            to { opacity: 1; transform: translateX(0); }
+          }
+          @keyframes svg-slide-right-widget_footer-0 {
+            from { opacity: 0; transform: translateX(-12px); }
+            to { opacity: 1; transform: translateX(0); }
+          }
+          @keyframes svg-zoom-in-widget_footer-0 {
+            from { opacity: 0; transform: scale(0.9); }
+            to { opacity: 1; transform: scale(1); }
+          }
+          @keyframes svg-zoom-out-widget_footer-0 {
+            from { opacity: 0; transform: scale(1.1); }
+            to { opacity: 1; transform: scale(1); }
+          }
+          @keyframes svg-flip-x-widget_footer-0 {
+            from { opacity: 0; transform: perspective(400px) rotateX(90deg); }
+            to { opacity: 1; transform: perspective(400px) rotateX(0deg); }
+          }
+          @keyframes svg-flip-y-widget_footer-0 {
+            from { opacity: 0; transform: perspective(400px) rotateY(90deg); }
+            to { opacity: 1; transform: perspective(400px) rotateY(0deg); }
+          }
+          @keyframes svg-glitch-widget_footer-0 {
+            0% { opacity: 0; transform: skewX(10deg); }
+            20% { opacity: 0.8; transform: skewX(-10deg); }
+            40% { opacity: 0.5; transform: skewX(5deg); }
+            60% { opacity: 0.9; transform: skewX(0deg); }
+            100% { opacity: 1; }
+          }
+          @keyframes svg-scan-lines-widget_footer-0 {
+            0% { opacity: 0; clip-path: inset(100% 0 0 0); }
+            100% { opacity: 1; clip-path: inset(0 0 0 0); }
+          }
+
+          #widget-widget_footer .anim-target {
+            animation-name: svg-glitch-widget_footer-0;
+            animation-duration: 1200ms;
+            animation-timing-function: ease-out;
+            animation-fill-mode: both;
+          }
+        </style>
       
       
       <rect class="" x="0" y="0" width="800" height="48" fill="#0a0f0a" stroke="#1a3a1a" stroke-width="1" rx="0" />
       
       
-    <rect x="0" y="0" width="800" height="48" fill="#00000000" />
-    <text x="24" y="28" font-family="'Inter Tight', sans-serif" font-size="11" font-weight="500" fill="#7a7a7a" letter-spacing="2">[ GENERATED BY GITASCII ]</text>
-    <text x="776" y="28" text-anchor="end" font-family="'JetBrains Mono', monospace" font-size="11" fill="#00ff41">gitascii.com/josephbusinesses664-dot</text>
+    <rect class="anim-target" x="0" y="0" width="800" height="48" fill="#00000000"  style="animation-delay: 0ms; transform-origin: center;" />
+    <text class="anim-target" x="24" y="28" font-family="'Inter Tight', sans-serif" font-size="11" font-weight="500" fill="#7a7a7a" letter-spacing="2" style="animation-delay: 200ms; transform-origin: center;">[ GENERATED BY GITASCII ]</text>
+    <text class="anim-target" x="776" y="28" text-anchor="end" font-family="'JetBrains Mono', monospace" font-size="11" fill="#00ff41" style="animation-delay: 400ms; transform-origin: center;">gitascii.com/josephbusinesses664-dot</text>
   
   
     </g>
